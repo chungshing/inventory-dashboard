@@ -1,2 +1,2 @@
-# Inventory Dashboard
-Fullstack inventory management dashboard built with React(Nextjs), Spring Boot, and PostgreSQL.
+# Fullstack F1 analytics dashboard using Next.js, Spring Boot, and OpenF1 API. 
+Displays live race data, driver positions, lap times, and computed race insights with interactive visualizations.
