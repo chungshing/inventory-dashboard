@@ -23,3 +23,14 @@ A fullstack F1 analytics platform that visualizes real-time and historical Formu
 OpenF1 API → Spring Boot Backend → Next.js Frontend
 
 ## 📦 Project Structure
+
+/frontend → Next.js dashboard UI
+/backend → Spring Boot API + data processing
+
+## 🎯 Goal
+
+To simulate a real-world motorsport analytics system with backend processing, API design, and interactive frontend visualization.
+
+## 📌 Status
+
+🚧 In development (Phase 1: Frontend UI)
