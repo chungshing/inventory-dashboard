@@ -1,2 +1,25 @@
-# Fullstack F1 analytics dashboard using Next.js, Spring Boot, and OpenF1 API. 
-Displays live race data, driver positions, lap times, and computed race insights with interactive visualizations.
+# 🏎️ F1 Race Intelligence Dashboard
+
+A fullstack F1 analytics platform that visualizes real-time and historical Formula 1 data using OpenF1 API.
+
+## 🚀 Tech Stack
+
+- Frontend: Next.js (React + TypeScript)
+- Backend: Spring Boot (Java)
+- Database: PostgreSQL
+- Data Source: OpenF1 API
+
+## 📊 Features
+
+- Live race position tracking
+- Driver performance comparison
+- Lap time analysis
+- Race session overview
+- Interactive dashboards
+- Computed standings engine (backend)
+
+## 🧠 Architecture
+
+OpenF1 API → Spring Boot Backend → Next.js Frontend
+
+## 📦 Project Structure
