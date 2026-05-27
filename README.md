@@ -2,6 +2,9 @@
 
 A fullstack F1 analytics platform that visualizes real-time and historical Formula 1 data using OpenF1 API.
 
+## 🌐 Live Demo
+https://f1-race-intelligence-dashboard.vercel.app/
+
 ## 🚀 Tech Stack
 
 - Frontend: Next.js (React + TypeScript)
