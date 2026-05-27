@@ -25,6 +25,7 @@ OpenF1 API → Spring Boot Backend → Next.js Frontend
 ## 📦 Project Structure
 
 /frontend → Next.js dashboard UI
+
 /backend → Spring Boot API + data processing
 
 ## 🎯 Goal
