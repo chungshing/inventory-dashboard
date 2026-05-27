@@ -37,4 +37,31 @@ To simulate a real-world motorsport analytics system with backend processing, AP
 
 ## 📌 Status
 
-🚧 In development (Phase 1: Frontend UI)
+🚧 Phase 1 – Frontend Dashboard UI (✅)
+
+- Interactive F1 dashboard layout
+- Driver standings table with live simulation
+- Championship battle charts
+- Component-based UI architecture
+
+## 🧭 Roadmap
+
+🟡 Phase 2 – Backend Development (In Progress)
+- Spring Boot API setup
+- OpenF1 API integration layer
+- Data models for drivers, races, standings
+- REST endpoints for frontend consumption
+- Basic race data processing logic
+
+🔵 Phase 3 – Frontend ↔ Backend Integration
+- Replace mock data with real API calls
+- Live data synchronization between backend and UI
+- Error handling + loading states
+- API service layer in Next.js
+
+🟣 Phase 4 – Advanced Features & Expansion
+- Driver profile pages
+- Race detail pages
+- Telemetry-style visualizations
+- Advanced analytics (lap trends, pit strategy insights)
+- UI polish for portfolio/demo quality
