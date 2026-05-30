@@ -8,7 +8,7 @@ import lombok.Data;
 public class DriverStanding {
 
     private int position;
-    private String driver;
-    private String team;
+    private String driverName;
+    private String teamName;
     private int points;
 }
